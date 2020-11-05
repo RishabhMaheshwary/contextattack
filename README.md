@@ -19,13 +19,6 @@ Dependencies
 - Download top 50 synonym file from [here](https://drive.google.com/file/d/1AIz8Imvv8OmHxVwY5kx10iwKAUzD6ODx/view?usp=sharing), unzip it and place the txt file in the main directory.
  
 How to Run:
--   Run the following code to install the  **esim**  package:
-
-```
-cd ESIM
-python setup.py install
-cd ..
-```
 -   Run the following command to get classification results. 
 
 ```
