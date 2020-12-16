@@ -1,8 +1,8 @@
 ### A context aware approach for generating natural language attack.
 
-Computing Infrastructure Used: Nvidia GeForce GTX 1080 Ti GPUs, providing 14336 CUDA cores, and 44 GB of GDDR5X VRAM
+This repository contains source code for the research work described in our AAAI 2021 paper:
 
-
+[A context aware approach for generating natural language attack](https://www.researchgate.net/publication/347304665_A_Context_Aware_Approach_for_Generating_Natural_Language_Attacks)
 
 Requirements
 -  Pytorch >= 0.4
